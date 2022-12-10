@@ -15,4 +15,6 @@ window.onscroll = () => {
 }
 
 
-
+function cardClick(){
+    window.location.href = "secret-key.html"
+}
